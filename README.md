@@ -37,6 +37,12 @@ Install the necessary Python packages.
 pip install ultralytics
 ```
 
+## Dataset and Model Files
+
+Due to storage limitations, the dataset and trained model files are hosted on Google Drive. You can download them from the following link:
+
+[Google Drive - Crop Shield Files](https://drive.google.com/drive/folders/1hS-h5j_jTvd1ophcTSlPQqmoNZBrHXTb)
+
 ## Training the Model
 
 ### Step 1: Create or Download Dataset
@@ -121,4 +127,4 @@ except Exception as err:
 
 ```
 
-You can copy this content into your `README.md` file in your repository. This file provides a comprehensive guide for setting up and running your Crop Shield project.
+You can copy this content into your `README.md` file in your repository. This file includes the Google Drive link for downloading the necessary dataset and model files, along with a comprehensive guide for setting up and running your Crop Shield project.
