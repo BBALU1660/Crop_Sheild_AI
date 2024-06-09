@@ -125,6 +125,6 @@ except Exception as err:
 - [Tutorial Video](https://www.youtube.com/watch?v=gRAyOPjQ9_s&t=582s)
 
 
-```
 
-You can copy this content into your `README.md` file in your repository. This file includes the Google Drive link for downloading the necessary dataset and model files, along with a comprehensive guide for setting up and running your Crop Shield project.
+
+
