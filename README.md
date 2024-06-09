@@ -118,8 +118,7 @@ except Exception as err:
 - [YOLOv8 Documentation](https://docs.ultralytics.com)
 - [Tutorial Video](https://www.youtube.com/watch?v=gRAyOPjQ9_s&t=582s)
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ```
 
 You can copy this content into your `README.md` file in your repository. This file provides a comprehensive guide for setting up and running your Crop Shield project.
