@@ -120,7 +120,7 @@ except Exception as err:
     print(str(err))
 ```
 
-## References
+### References
 - [YOLOv8 Documentation](https://docs.ultralytics.com)
 - [Tutorial Video](https://www.youtube.com/watch?v=gRAyOPjQ9_s&t=582s)
 
